@@ -562,7 +562,7 @@
             "Key": "f0d15e27-ffb7-4e32-819c-e11212167648",
             "Value": {
                 "id": "56f5f5ec-c675-4eb1-b31e-ab89d360af56",
-                "resourcePath": "rooms\\StartScreen\\StartScreen.yy",
+                "resourcePath": "rooms\\StartScreen-1\\StartScreen.yy",
                 "resourceType": "GMRoom"
             }
         },
